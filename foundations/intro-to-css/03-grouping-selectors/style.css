@@ -1,1 +1,14 @@
-/* Add CSS Styling */
+.clkme,
+.noclkme {
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', 'sans-serif';
+}
+
+.clkme {
+    background-color: black;
+    color: white;
+}
+
+.noclkme {
+    background-color: yellow;
+}
